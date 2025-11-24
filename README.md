@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maryamalka85
-- 👀 I’m interested in cancer research
+- 👀 I’m interested in ML, PINNs and healthcare research
 - 🌱 I’m currently learning Differential equations and Mechanistic models
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
